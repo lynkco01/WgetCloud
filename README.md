@@ -2,7 +2,8 @@
 最新官网：[wgetcloud.org](https://airportsub.com/wgetcloud)
 ## WgetCloud 简介
 WgetCloud （原 GaCloud） 是一家主打稳定翻墙的机场服务商，其服务始于 2021 年，线路采用国内优质 BGP 服务器接入，亚马逊 Global Accelerator 专线加速。WgetCloud 由海外团队运作，使用 Trojan 协议，套餐价格相对偏贵，属于高端翻墙机场，适合追求极致稳定的翻墙用户，如外贸工作、开发人员使用，同时支持定制套餐，重度翻墙用户或团队用户可在官网「增值服务」中进行流量和设备数量自定义套餐，小型工作室和团队可直接选购团队套餐方案。WgetCloud 机场还可以在官网自定义订阅配置文件，省去使用第三方订阅转换工具的烦恼，同时也避免了泄露订阅的风险。新用户注册即自动开启8折优惠。  
- ![WgetCloud 机场](https://clashsub.net/wp-content/uploads/2023/10/WgetCloud-%E6%9C%BA%E5%9C%BA%E5%AE%98%E7%BD%91.webp)  
+
+ [![WgetCloud 机场](https://clashsub.net/wp-content/uploads/2023/10/WgetCloud-%E6%9C%BA%E5%9C%BA%E5%AE%98%E7%BD%91.webp)]https://airportsub.com/wgetcloud) 
 
 线路特点：IPLC 专线（广港专线、沪日专线）；广东 BGP、上海 BGP 入口  
 
